@@ -24,9 +24,10 @@
   
   /* Language */
   .active-lang {
-    display: flex !important;
+    display:inline-block !important;
     transition: display .5s;
   }
+
   
   .active-flag {
     transition: all .5s;
